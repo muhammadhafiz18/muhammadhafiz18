@@ -1,74 +1,61 @@
-# Hey there! 👋 I'm Behzod Sharifjonov
+# Hi there, I'm Muhammad 👋
 
-### 🎨 Crafting Delightful Web Experiences
-
-I’m a passionate **Frontend Developer** with a knack for turning ideas into interactive, responsive websites. My toolbox includes **React.js**, **JavaScript**, and a bunch of other cool stuff that makes the web look good and work smoothly.
+**Motivated Junior Software Developer | Passionate about Web Development**
 
 ---
 
-### 🚀 My Skillset
+### 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, HTML5, CSS3
-- **Frameworks & Libraries:** React.js, JQuery, REDUX, RTK-Query, Tailwind
-- **Tools:** Git, GitHub, Microsoft Office, ChatGPT, GitHub Copilot, Gemini
-- **API Mastery:** RESTful APIs, CRUD operations
-- **Soft Skills:** Team Collaboration, Problem-Solving, Communication, Sales
-
----
-
-### 🛠️ Projects & Contributions
-
-**🌐 [Project Name](#)**  
-*Feb 2024 - Mar 2024 | Frontend Developer @ Menz*  
-Built dynamic and responsive web applications in a fast-paced environment. Contributed to code reviews, optimized performance, and ensured cross-browser compatibility.
-
-**🌐 [Another Project](#)**  
-*Jan 2023 - Jul 2023 | Web Developer @ Encode*  
-Redesigned websites for better user experience and implemented custom, responsive designs. Integrated frontend with backend services to create dynamic pages.
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?logo=dotnet&logoColor=fff)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 
 ---
 
-### 📚 My Journey
+### 📌 Pinned Repositories
 
-**🎓 Education**  
-- **Frontend Development | Fintechhub, Tashkent**  
-  *Graduated: Feb 2024*  
-  Specialized in React.js and modern frontend technologies.
-  
-- **English Language | Cambridge Learning Center, Tashkent**  
-  *Completed: Aug 2024*  
-  Focused on IELTS preparation and advanced language skills.
+[![Habit Tracker via Telegram Bot](https://github-readme-stats.vercel.app/api/pin/?username=muhammadhafiz18&repo=HabitTracker)](https://github.com/muhammadhafiz18/HabitTracker)
+*An Azure Functions-based Telegram bot to track and manage habits with daily reminders and streak statistics.*
+
+[![Muazzin](https://github-readme-stats.vercel.app/api/pin/?username=muhammadhafiz18&repo=muazzin)](https://github.com/muhammadhafiz18/muazzin)
+*A project to send prayer time notifications using Azure Functions, with user data stored in Azure Blob Storage.*
 
 ---
 
-### 🏅 Achievements
+### 💼 Experience
 
-- **Certificates**  
-  - Frontend Development (Menz School, Fintechhub)
-  - Programming (W3schools)
+- **Self-Employed (06/2024 - 07/2024)**
+  - Developed a Telegram bot in C# .NET, parsing prayer times from islom.uz.
+  - Implemented Azure Functions, managed user data with Azure SQL Server, and stored data in Azure Blob Storage.
 
-- **Languages**  
-  - **Uzbek:** Native  
-  - **English:** Proficient
-
----
-
-### 🌱 What I’m Learning
-
-Currently diving deeper into **AI-powered development tools** and enhancing my skills in **advanced React.js** and **state management**.
+- **OneApp.ly (06/2022 - 07/2022)**
+  - Sales/Marketing Intern. Attracted users, learned JavaScript basics, conducted QA tasks, and resolved critical bugs.
 
 ---
 
-### 📫 Let’s Connect!
+### 🌱 Currently Learning
 
-I love collaborating on exciting projects or just chatting about tech! Feel free to reach out:
-
-- **Email:** [behzodsharifjonov7@gmail.com](mailto:behzodsharifjonov7@gmail.com)
-- **LinkedIn:** [Connect with me](#)
+- **ASP.NET MVC** - Expanding my knowledge in backend development.
+- **Node.js** - Starting a course at Najot Ta'lim to learn full-stack JavaScript.
 
 ---
 
-### 🌍 Fun Fact
+### 📫 How to Reach Me
 
-When I’m not coding, you might find me exploring the latest tech trends, learning new languages, or enjoying a good book.
+- **LinkedIn:** [Muhammad Khodjayev](https://www.linkedin.com/in/muhammad-khodjayev)
+- **Email:** Khodjayev.muhammad@gmail.com
 
+---
+
+### ✨ Fun Facts
+
+- I used to play Talk Now to learn languages when I was a child.
+- I'm passionate about the intersection of logistics and technology.
+
+---
+
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhafiz18&show_icons=true&theme=radical)
