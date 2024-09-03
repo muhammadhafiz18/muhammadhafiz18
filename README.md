@@ -1,62 +1,64 @@
-# Hi there, I'm Muhammad 👋
+# 👋 Hi, I'm Behzod Sharifjonov
 
-**Motivated Junior Software Developer | Passionate about Web Development**
-
----
-
-### 🛠️ Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
-![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?logo=dotnet&logoColor=fff)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+**Motivated and Detail-Oriented Front End Developer**
 
 ---
 
-### 📌 Pinned Repositories
+### 👨‍💻 About Me
 
-[![Habit Tracker via Telegram Bot](https://github-readme-stats.vercel.app/api/pin/?username=muhammadhafiz18&repo=HabitTracker)](https://github.com/muhammadhafiz18/HabitTracker)
-*An Azure Functions-based Telegram bot to track and manage habits with daily reminders and streak statistics.*
+I'm a passionate Front End Developer with a strong focus on building dynamic and responsive web applications using **React.js** and **JavaScript**. My expertise lies in creating user-friendly interfaces and optimizing development processes by leveraging modern tools like **ChatGPT**, **GitHub Copilot**, and **Gemini**.
 
-[![Muazzin](https://github-readme-stats.vercel.app/api/pin/?username=muhammadhafiz18&repo=muazzin)](https://github.com/muhammadhafiz18/muazzin)
-*A project to send prayer time notifications using Azure Functions, with user data stored in Azure Blob Storage.*
+I am skilled in interpreting technical documentation in both **English** and **Russian**, which enhances my ability to work with diverse teams and solve complex programming issues. My goal is to continuously learn and embrace new technologies to contribute to innovative projects.
 
----
+### 🌟 Skills
 
-### 💼 Experience
+- **Languages & Tools:** JavaScript, HTML5, CSS, ReactJS, JQuery, REST, RTK-Query, CRUD, Tailwind, REDUX, GIT, Microsoft Office, CRM Software
+- **Development:** Responsive Design, Cross-Browser Compatibility, Interactive User Interfaces, Debugging, Code Reviews
+- **Soft Skills:** Communication, Teamwork, Problem-Solving, Sales Experience
 
-- **Self-Employed (06/2024 - 07/2024)**
-  - Developed a Telegram bot in C# .NET, parsing prayer times from islom.uz.
-  - Implemented Azure Functions, managed user data with Azure SQL Server, and stored data in Azure Blob Storage.
+### 🛠 Experience
 
-- **OneApp.ly (06/2022 - 07/2022)**
-  - Sales/Marketing Intern. Attracted users, learned JavaScript basics, conducted QA tasks, and resolved critical bugs.
+- **Frontend Developer/React Developer | Menz, Tashkent (02/2024 - 03/2024)**
+  - Collaborated on creating responsive and dynamic websites using React.
+  - Enhanced teamwork and communication skills through effective interaction with team members and stakeholders.
+  - Participated in code reviews and agile development processes.
 
----
+- **Web Developer | UNIRED, Tashkent (02/2024 - 05/2024)**
+  - Redesigned the website for a more visually appealing and user-friendly experience.
+  - Maintained software products, including programs, webpages, and databases.
 
-### 🌱 Currently Learning
+- **Web Developer | Encode, Tashkent (01/2023 - 07/2023)**
+  - Developed and maintained user-facing webpages using HTML, CSS, JavaScript, and React JS.
+  - Created custom responsive designs optimized for various devices.
 
-- **ASP.NET MVC** - Expanding my knowledge in backend development.
-- **Node.js** - Starting a course at Najot Ta'lim to learn full-stack JavaScript.
+- **Sales Manager | Encode, Tashkent (11/2022 - 12/2022)**
+  - Attracted over 50 students to various courses, contributing significantly to the center's growth.
+  - Managed customer relationships using CRM systems and developed effective sales strategies.
 
----
+### 🎓 Education
 
-### 📫 How to Reach Me
+- **Web Developer in Frontend | Fintechhub, Tashkent (02/2024)**
+  - Focused on frontend development using React JS and various software libraries.
 
-- **Portfolio:** [your-portfolio-link](https://your-portfolio-link.com)
-- **LinkedIn:** [Muhammad's LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- **Email:** your-email@example.com
+- **Web Developer in Frontend | W3schools, Tashkent (12/2023)**
+  - Completed a course in frontend development, covering HTML, CSS, JavaScript, and jQuery.
 
----
+- **Web Developer in Frontend | Menz School, Tashkent (09/2022)**
+  - Gained a strong foundation in web development and solved complex algorithms.
 
-### ✨ Fun Facts
+- **English Language | Cambridge Learning Center, Tashkent (08/2024)**
+  - Enhanced skills in speaking, listening, reading, and writing for the IELTS exam.
 
-- I used to play Talk Now to learn languages when I was a child.
-- I'm passionate about the intersection of logistics and technology.
+### 📜 Certificates
 
----
+- Certificates from Menz and Fintechhub schools in programming
+- W3schools certificate in programming
 
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+### 🌐 Languages
+
+- **Uzbek:** Native
+- **English:** Proficient
+
+### 💬 Let's Connect!
+
+Feel free to reach out to me via [Email](mailto:behzodsharifjonov7@gmail.com) or connect with me on [LinkedIn](#).
