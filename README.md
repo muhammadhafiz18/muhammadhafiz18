@@ -19,10 +19,10 @@
 
 ### 📌 Pinned Repositories
 
-[![Habit Tracker via Telegram Bot](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=habit-tracker-telegram-bot)](https://github.com/your-username/habit-tracker-telegram-bot)
+[![Habit Tracker via Telegram Bot](https://github-readme-stats.vercel.app/api/pin/?username=muhammadhafiz18&repo=habit-tracker-telegram-bot)](https://github.com/muhammadhafiz18/habit-tracker-telegram-bot)
 *An Azure Functions-based Telegram bot to track and manage habits with daily reminders and streak statistics.*
 
-[![Muazzin](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=muazzin)](https://github.com/your-username/muazzin)
+[![Muazzin](https://github-readme-stats.vercel.app/api/pin/?username=muhammadhafiz18&repo=muazzin)](https://github.com/muhammadhafiz18/muazzin)
 *A project to send prayer time notifications using Azure Functions, with user data stored in Azure Blob Storage.*
 
 ---
