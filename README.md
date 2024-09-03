@@ -40,8 +40,7 @@
 ### 🌱 Currently Learning
 
 - **ASP.NET MVC** - Expanding my knowledge in backend development.
-- **Node.js** - Starting a course at Najot Ta'lim to learn full-stack JavaScript.
-
+- 
 ---
 
 ### 📫 How to Reach Me
