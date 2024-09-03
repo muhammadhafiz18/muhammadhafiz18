@@ -1,64 +1,82 @@
-# 👋 Hi, I'm Behzod Sharifjonov
+# Welcome to My GitHub! 🌟
 
-**Motivated and Detail-Oriented Front End Developer**
+### 👋 Hello, I'm Behzod Sharifjonov
+
+I'm a **Frontend Developer** passionate about crafting beautiful, responsive, and user-friendly web applications. My journey in tech is driven by curiosity, a love for problem-solving, and a continuous desire to learn and grow.
 
 ---
 
-### 👨‍💻 About Me
+## 🛠️ Tech Stack & Tools
 
-I'm a passionate Front End Developer with a strong focus on building dynamic and responsive web applications using **React.js** and **JavaScript**. My expertise lies in creating user-friendly interfaces and optimizing development processes by leveraging modern tools like **ChatGPT**, **GitHub Copilot**, and **Gemini**.
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind, REDUX, RTK-Query, JQuery
+- **Version Control:** Git, GitHub
+- **API Integration:** RESTful APIs, CRUD operations
+- **Tools & Utilities:** ChatGPT, GitHub Copilot, Gemini, Microsoft Office
+- **Soft Skills:** Strong communication, Team collaboration, Customer relationship management
 
-I am skilled in interpreting technical documentation in both **English** and **Russian**, which enhances my ability to work with diverse teams and solve complex programming issues. My goal is to continuously learn and embrace new technologies to contribute to innovative projects.
+---
 
-### 🌟 Skills
+## 🚀 Professional Experience
 
-- **Languages & Tools:** JavaScript, HTML5, CSS, ReactJS, JQuery, REST, RTK-Query, CRUD, Tailwind, REDUX, GIT, Microsoft Office, CRM Software
-- **Development:** Responsive Design, Cross-Browser Compatibility, Interactive User Interfaces, Debugging, Code Reviews
-- **Soft Skills:** Communication, Teamwork, Problem-Solving, Sales Experience
+### **Frontend Developer / React Developer @ Menz**
+*Feb 2024 - Mar 2024 | Tashkent, Uzbekistan*
 
-### 🛠 Experience
+- 🖥️ Collaborated in a dynamic team to build and deploy responsive, scalable web applications.
+- 🔍 Conducted code reviews, optimized performance, and ensured cross-browser compatibility.
+- 🤝 Strengthened teamwork and communication through active participation in agile processes.
 
-- **Frontend Developer/React Developer | Menz, Tashkent (02/2024 - 03/2024)**
-  - Collaborated on creating responsive and dynamic websites using React.
-  - Enhanced teamwork and communication skills through effective interaction with team members and stakeholders.
-  - Participated in code reviews and agile development processes.
+### **Web Developer @ UNIRED**
+*Feb 2024 - May 2024 | Tashkent, Uzbekistan*
 
-- **Web Developer | UNIRED, Tashkent (02/2024 - 05/2024)**
-  - Redesigned the website for a more visually appealing and user-friendly experience.
-  - Maintained software products, including programs, webpages, and databases.
+- 🌐 Redesigned and maintained web pages to enhance user experience and visual appeal.
+- 🛠️ Managed software products, including databases and web applications.
+- 🧑‍💻 Actively engaged in new project initiatives, ensuring robust and maintainable code.
 
-- **Web Developer | Encode, Tashkent (01/2023 - 07/2023)**
-  - Developed and maintained user-facing webpages using HTML, CSS, JavaScript, and React JS.
-  - Created custom responsive designs optimized for various devices.
+### **Web Developer @ Encode**
+*Jan 2023 - Jul 2023 | Tashkent, Uzbekistan*
 
-- **Sales Manager | Encode, Tashkent (11/2022 - 12/2022)**
-  - Attracted over 50 students to various courses, contributing significantly to the center's growth.
-  - Managed customer relationships using CRM systems and developed effective sales strategies.
+- 🎨 Created custom, responsive web designs, ensuring optimal performance across devices.
+- ⚙️ Integrated frontend code with backend services for dynamic, interactive websites.
+- 🧑‍🏫 Served as a support mentor, providing guidance and assistance in web development.
 
-### 🎓 Education
+### **Sales Manager @ Encode**
+*Nov 2022 - Dec 2022 | Tashkent, Uzbekistan*
 
-- **Web Developer in Frontend | Fintechhub, Tashkent (02/2024)**
-  - Focused on frontend development using React JS and various software libraries.
+- 📈 Boosted student enrollment by over 50%, driving the success of educational programs.
+- 💼 Developed and implemented strategic sales plans, enhancing CRM efficiency.
 
-- **Web Developer in Frontend | W3schools, Tashkent (12/2023)**
-  - Completed a course in frontend development, covering HTML, CSS, JavaScript, and jQuery.
+---
 
-- **Web Developer in Frontend | Menz School, Tashkent (09/2022)**
-  - Gained a strong foundation in web development and solved complex algorithms.
+## 🎓 Education & Certifications
 
-- **English Language | Cambridge Learning Center, Tashkent (08/2024)**
-  - Enhanced skills in speaking, listening, reading, and writing for the IELTS exam.
+- **Web Development (Frontend) | Fintechhub, Tashkent**  
+  *Feb 2024*
+  - Focused on React.js and modern frontend technologies.
+  
+- **Frontend Development | W3schools, Tashkent**  
+  *Dec 2023*
+  - Comprehensive online course covering HTML, CSS, JavaScript, and jQuery.
+  
+- **Web Development Basics | Menz School, Tashkent**  
+  *Sep 2022*
+  - Gained foundational knowledge in HTML, CSS, JavaScript, and teamwork.
 
-### 📜 Certificates
+- **English Language | Cambridge Learning Center, Tashkent**  
+  *Aug 2024*
+  - Prepared for IELTS, focusing on all essential language skills.
 
-- Certificates from Menz and Fintechhub schools in programming
-- W3schools certificate in programming
+---
 
-### 🌐 Languages
+## 🏆 Achievements & Certifications
 
-- **Uzbek:** Native
-- **English:** Proficient
+- 🎖️ **Programming Certificates**: Menz, Fintechhub, and W3schools
+- 🌍 **Languages**: Uzbek (Native), English (Proficient)
 
-### 💬 Let's Connect!
+---
 
-Feel free to reach out to me via [Email](mailto:behzodsharifjonov7@gmail.com) or connect with me on [LinkedIn](#).
+## 📫 Connect with Me
+
+I'm always open to new opportunities, collaborations, and interesting discussions. Feel free to reach out!
+
+- **Email:** [behzodsharifjonov7@gmail.com](mailto:behzodsharifjonov7@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](#)
